@@ -1,7 +1,7 @@
 {
   "name": "marketing-sang-tao-tld-vn",
-  "version": "0.5.0",
-  "description": "Marketing: sáng tạo nội dung. Hỗ trợ tổ chức viết và chấm câu mở đầu, viết kịch bản video ngắn, bài đăng mạng xã hội, kịch bản livestream, ảnh trích dẫn, tiêu đề và ảnh bìa, cắt video dài thành video ngắn, viết tự nhiên không giọng văn máy. Một phần của bộ Marketing-skills-tld-vn. Không có kết nối ra ngoài.",
+  "version": "0.6.0",
+  "description": "Marketing: sáng tạo nội dung. Hỗ trợ tổ chức viết và chấm câu mở đầu, viết kịch bản video ngắn, bài đăng mạng xã hội, kịch bản livestream, ảnh trích dẫn, tiêu đề và ảnh bìa, cắt video dài thành video ngắn, viết tự nhiên không giọng văn máy, dựng giọng văn của tổ chức từ bài thật. Một phần của bộ Marketing-skills-tld-vn. Không có kết nối ra ngoài.",
   "author": {
     "name": "Thế Là Được"
   }

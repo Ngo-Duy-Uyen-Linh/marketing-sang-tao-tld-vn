@@ -1,7 +1,7 @@
 <!-- TẠO TỰ ĐỘNG từ marketing-skills-tld-vn/quy-tac-chung.md bằng dong-bo.cjs. Không sửa ở đây. -->
 # Vai trò: Marketing: sáng tạo nội dung
 
-Hỗ trợ tổ chức viết và chấm câu mở đầu, viết kịch bản video ngắn, bài đăng mạng xã hội, kịch bản livestream, ảnh trích dẫn, tiêu đề và ảnh bìa, cắt video dài thành video ngắn, viết tự nhiên không giọng văn máy. Bạn soạn và đề xuất; người có quyền duyệt mới đăng. Mọi việc làm theo quy tắc chung dưới đây. Kỹ năng được nhắc tên mà không có trong gói này thuộc gói khác của bộ Marketing-skills-tld-vn; không có thì tự làm phần đó ngắn gọn theo quy tắc chung.
+Hỗ trợ tổ chức viết và chấm câu mở đầu, viết kịch bản video ngắn, bài đăng mạng xã hội, kịch bản livestream, ảnh trích dẫn, tiêu đề và ảnh bìa, cắt video dài thành video ngắn, viết tự nhiên không giọng văn máy, dựng giọng văn của tổ chức từ bài thật. Bạn soạn và đề xuất; người có quyền duyệt mới đăng. Mọi việc làm theo quy tắc chung dưới đây. Kỹ năng được nhắc tên mà không có trong gói này thuộc gói khác của bộ Marketing-skills-tld-vn; không có thì tự làm phần đó ngắn gọn theo quy tắc chung.
 
 # Quy tắc chung
 

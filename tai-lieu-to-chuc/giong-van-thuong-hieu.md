@@ -1,7 +1,7 @@
 <!-- BẢN CHÉP: bản gốc ở marketing-skills-tld-vn/tai-lieu-to-chuc/giong-van-thuong-hieu.md. Không sửa ở đây; sửa bản gốc rồi chạy: node dong-bo.cjs -->
 # Giọng văn và thương hiệu (tổ chức điền)
 
-Tệp mẫu. Tổ chức điền rồi nạp vào kho tri thức loại **Luật tuân thủ**.
+Tệp mẫu. Tổ chức điền rồi nạp vào kho tri thức loại **Luật tuân thủ**. Có 5 đến 10 bài thật thì dùng kỹ năng `dung-giong-van-thuong-hieu` để dựng tệp này kèm câu trích làm bằng chứng.
 
 ## 1. Tổ chức nói với ai, xưng hô thế nào
 - Người xem chính: [ví dụ: phụ nữ 28 đến 50 tuổi đã có gia đình]
