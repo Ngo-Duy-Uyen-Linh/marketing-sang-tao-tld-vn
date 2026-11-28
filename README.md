@@ -1,7 +1,7 @@
 <!-- TẠO TỰ ĐỘNG bằng dong-bo.cjs từ marketing-skills-tld-vn. Không sửa ở đây. -->
 # marketing-sang-tao-tld-vn: Marketing: sáng tạo nội dung
 
-Bản 0.6.1. Hỗ trợ tổ chức viết và chấm câu mở đầu, viết kịch bản video ngắn, bài đăng mạng xã hội, kịch bản livestream, ảnh trích dẫn, tiêu đề và ảnh bìa, cắt video dài thành video ngắn, viết tự nhiên không giọng văn máy, dựng giọng văn của tổ chức từ bài thật.
+Bản 0.6.2. Hỗ trợ tổ chức viết và chấm câu mở đầu, viết kịch bản video ngắn, bài đăng mạng xã hội, kịch bản livestream, ảnh trích dẫn, tiêu đề và ảnh bìa, cắt video dài thành video ngắn, viết tự nhiên không giọng văn máy, dựng giọng văn của tổ chức từ bài thật.
 
 Gói này là một vai trong bộ **Marketing-skills-tld-vn**, tách riêng để nhân sự AI chỉ nạp kỹ năng của đúng vai mình, đỡ tốn chi phí mỗi lượt chạy. Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được.
 

@@ -3,6 +3,15 @@
 
 Hỗ trợ tổ chức viết và chấm câu mở đầu, viết kịch bản video ngắn, bài đăng mạng xã hội, kịch bản livestream, ảnh trích dẫn, tiêu đề và ảnh bìa, cắt video dài thành video ngắn, viết tự nhiên không giọng văn máy, dựng giọng văn của tổ chức từ bài thật. Bạn soạn và đề xuất; người có quyền duyệt mới đăng. Mọi việc làm theo quy tắc chung dưới đây. Kỹ năng được nhắc tên mà không có trong gói này thuộc gói khác của bộ Marketing-skills-tld-vn; không có thì tự làm phần đó ngắn gọn theo quy tắc chung.
 
+# Bản đồ kỹ năng
+
+Kỹ năng nào làm việc gì và chuyển sang kỹ năng nào. Chọn kỹ năng theo bảng này trước khi đọc toàn văn; chỉ đọc kỹ năng việc đang cần.
+
+- **Câu mở đầu dùng chung:** kịch bản video, bài đăng, livestream, video cắt lại đều lấy câu mở đầu bằng `viet-cau-mo-dau` rồi chấm bằng `cham-cau-mo-dau`. Tiêu đề và ảnh bìa video dùng `tieu-de-va-anh-bia` (mượn tiêu chí Cụ thể, Tò mò của `cham-cau-mo-dau`).
+- **Dùng lại nội dung cũ:** `lam-moi-bai-hieu-qua` (đổi một yếu tố mỗi lần, câu mở đầu luôn mới) → `cat-video-dai-thanh-video-ngan` (video dài thành video ngắn), hoặc viết bản riêng theo kênh bằng `viet-bai-dang-mang-xa-hoi`, `viet-kich-ban-video-ngan`.
+- **Livestream:** `kich-ban-livestream`; trước buổi viết bài thông báo (`viet-bai-dang-mang-xa-hoi`) và câu trả lời mẫu (`tra-loi-binh-luan-cong-khai`); sau buổi đưa mốc các câu chốt sang `cat-video-dai-thanh-video-ngan`, số liệu từng phút sang `doc-so-lieu-rut-bai-hoc`.
+- **Giọng văn và kiểm trước khi đăng:** `dung-giong-van-thuong-hieu` dựng tài liệu giọng văn từ bài thật; `bo-giong-van-may` bỏ dấu vết văn máy theo tài liệu đó; `kiem-noi-dung-theo-quy-tac` kiểm lần cuối (dấu vết văn máy xét theo `bo-giong-van-may`). `viet-anh-trich-dan` dùng `kiem-noi-dung-theo-quy-tac` cho chú thích.
+
 # Quy tắc chung
 
 Mọi kỹ năng trong gói làm theo các quy tắc này. Kỹ năng nào có quy tắc riêng chặt hơn thì theo quy tắc chặt hơn.
